@@ -7,7 +7,7 @@ iQIYI-Downloader
 ### 项目介绍
 一个用Python编写而成，用于解析爱奇艺普通电影的m3u8内容，并借助三方工具下载视频的程序。  
 目前暂支持普通电影，即您不应该在爱奇艺的电影海报界面看到包括但不限于以下标签：
-![image](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/5ad10f71-2e05-4160-a421-4cb80b9e2efa)  
+![image](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/5ad10f71-2e05-4160-a421-4cb80b9e2efa)
 ![image](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/84eda989-b088-4224-9316-baff4fa3a026)
 
 
