@@ -12,7 +12,7 @@ iQIYI-Downloader
 本程序使用到了[nilaoda](https://github.com/nilaoda)的[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)作为底层下载工具，在此向作者[nilaoda](https://github.com/nilaoda)表示感谢。此外，与本人其他所有项目一致，本人无意侵犯任何个人或实体的任何权利，若该情况不甚发生，烦请联系本人以便及时进行下一步处理。  
 
 ### 使用说明
-1. 运行程序
+1. 运行程序  
 `pip install -r requirements.txt`  
 `python iqiyi.py`  
 2. 输入“dash地址”  
