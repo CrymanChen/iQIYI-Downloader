@@ -1,4 +1,5 @@
 # iQIYI-Downloader
+[中文] | [English](https://github.com/CrymanChen/iQIYI-Downloader/blob/main/README_en.md)
 
 ### 项目名称
 iQIYI-Downloader  
