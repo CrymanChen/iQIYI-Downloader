@@ -1,4 +1,6 @@
 # iQIYI-Downloader
+[中文](https://github.com/CrymanChen/iQIYI-Downloader/blob/main/README.md) | [English]
+⚠ The English version of README is done under the help of ChatGPT 4.0. You should be aware that some problems including grammar may occur unexpectedly even though it's the up-to-date newest and most powerful generative pre-trained transformer.
 
 ### Project Name
 iQIYI-Downloader  
