@@ -11,9 +11,9 @@ iQIYI-Downloader
 本程序使用到了[nilaoda](https://github.com/nilaoda)的[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)作为底层下载工具，在此向作者[nilaoda](https://github.com/nilaoda)表示感谢。此外，与本人其他所有项目一致，本人无意侵犯任何个人或实体的任何权利，若该情况不甚发生，烦请联系本人以便及时进行下一步处理。  
 
 ### 使用说明
-1. 运行程序  
-'''python iqiyi.py
-'''
+1. 运行程序
+`pip install -r requirements.txt`
+`python iqiyi.py`  
 2. 输入“dash地址”  
 💡如何查找“dash地址”？  
 请打开浏览器开发者工具，通过关键字进行查找。对于每个视频，“dash地址”应“有且只有一个”，查找结果应只有一个，且应以“cache.video.iqiyi.com”开头。  
@@ -23,7 +23,7 @@ iQIYI-Downloader
 与此同时，你应该已经能看到状态码和延时（ms）。  
 4. 调用[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)进行下载  
 ![20230717021650](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/642ed2ee-c563-47ff-bdcb-bdc05cf434c2)  
-5. 可决定是否保留解析生成的.m3u8文件  
+6. 可决定是否保留解析生成的.m3u8文件  
 ![20230717022024](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/8c037e4f-73d0-42c3-90a3-417b66fc0a29)  
 
 ### 代码注释和说明
