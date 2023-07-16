@@ -28,8 +28,7 @@ iQIYI-Downloader
 ![20230717022024](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/8c037e4f-73d0-42c3-90a3-417b66fc0a29)  
 
 ### 代码注释和说明
-1. '''program = 're.exe'
-'''的值请与[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)的本地路径一致。必要时请使用绝对路径。
+1. `program = 're.exe'`的值请与[N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)的本地路径一致。必要时请使用绝对路径。
 2. `headers`的值为默认值。可根据实际情况进行修改。  
 [附]cURL转换地址：https://curlconverter.com
 3. 输入保存文件名时，输入和最终结果的对应关系为：
