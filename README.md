@@ -13,7 +13,7 @@ iQIYI-Downloader
 
 ### 使用说明
 1. 运行程序
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`  
 `python iqiyi.py`  
 2. 输入“dash地址”  
 💡如何查找“dash地址”？  
