@@ -6,7 +6,7 @@
 iQIYI-Downloader  
 
 ### Project Introduction
-This is a program written in Python, designed to parse the m3u8 content of standard iQIYI videos and use third-party tools to download the videos.
+This is a program written in Python, designed to parse the m3u8 content of standard iQIYI movies and use third-party tools to download the videos.
 
 ### Disclaimer
 This Python program is for learning purposes only, and is a small personal project for my daily practice. It is not intended for commercial use, and misuse may violate relevant laws and be subject to corresponding penalties.
