@@ -45,6 +45,6 @@ iQIYI-Downloader
 3. 输入保存文件名时，输入和最终结果的对应关系为：  
 Output name ~~(default=output)~~: `示例视频`  
 最终的视频名称为`示例视频.mp4`  
-`~~(default=output)~~` 该语句已在v1.1版本被删除，原因是经过测试，发现没有设置默认值。  
+`(default=output)` 该语句已在v1.1版本被删除，原因是经过测试，发现没有设置默认值。  
 4. [实验性功能] [针对云影院电影] 本项目用于解析爱奇艺普通视频，但也可配合我的另一个项目[WKS-KEYS](https://github.com/CrymanChen/WKS-KEYS)，以[《爱奇艺云影院加密流媒体视频下载纪实》](https://mp.weixin.qq.com/s?__biz=Mzg2MzUyMDg5Mg==&mid=2247486660&idx=1&sn=9db713df121887183a4aff836a68a4b4&chksm=ce761dd7f90194c194a6c653cfb4a254aa8933f6379c06970324bc6d86d8c4477afa60279002#rd)作为参考，获取受Widevine保护的加密视频。  
   
