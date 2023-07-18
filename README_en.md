@@ -43,5 +43,5 @@ In version v1.1, we have added colors to the status code and delay to try to imp
 3. When entering the saved file name, the corresponding relationship between the input and the final result is:  
 Output name ~~(default=output)~~: `Example Video`  
 The final video name is `Example Video.mp4`  
-The statement `~~(default=output)~~` has been deleted in version v1.1 because it was found that there was no default value set after testing.  
+The statement `(default=output)` has been deleted in version v1.1 because it was found that there was no default value set after testing.  
 4. [Experimental Feature] [For Cloud Cinema Movies] This project is used to parse iQIYI's ordinary videos, but it can also be combined with my other project [WKS-KEYS](https://github.com/CrymanChen/WKS-KEYS), with [《iQIYI Cloud Cinema Encrypted Streaming Video Download Record》](https://mp.weixin.qq.com/s?__biz=Mzg2MzUyMDg5Mg==&mid=2247486660&idx=1&sn=9db713df121887183a4aff836a68a4b4&chksm=ce761dd7f90194c194a6c653cfb4a254aa8933f6379c06970324bc6d86d8c4477afa60279002#rd) as a reference, to get encrypted videos protected by Widevine.  
