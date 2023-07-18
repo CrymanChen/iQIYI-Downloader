@@ -1,5 +1,8 @@
 # iQIYI-Downloader  
 [[中文]](https://github.com/CrymanChen/iQIYI-Downloader/blob/main/README.md) | [English]  
+### v1.2
+Already parsed the Cloud Cinema movies
+![image](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/08ac5547-dcf3-455f-b4fd-a63e8ce36185)
 
 ### Project Name  
 iQIYI-Downloader  
