@@ -1,5 +1,8 @@
 # iQIYI-Downloader  
 [中文] | [[English]](https://github.com/CrymanChen/iQIYI-Downloader/blob/main/README_en.md)  
+### v1.2
+已解析云影院电影
+![image](https://github.com/CrymanChen/iQIYI-Downloader/assets/106590233/5a3525d8-e00e-4e96-9084-e4cfd455bbe0)
   
 ### 项目名称  
 iQIYI-Downloader  
