@@ -11,7 +11,7 @@ iQIYI-Downloader
 A program written in Python, used for parsing iQIYI's m3u8 content, and downloading videos with the help of third-party tools. The current v1.1 version has optimized parsing logic and can achieve the following:  
 · For TV dramas, free, VIP, and exclusive dramas can all be successfully parsed (which should be equivalent to all dramas…)  
 · For movies, both free and VIP movies can be successfully parsed  
-· ~~Cloud Cinema movies~~ (still being parsed, but the key can be obtained by other means)  
+· Cloud Cinema movies (v1.2)  
 
 ### Disclaimer  
 This Python program is for learning purposes only and is a small work for my daily practice. Please do not use it for commercial purposes. Violators may violate relevant laws and accept corresponding penalties. This program uses [nilaoda's](https://github.com/nilaoda) [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) as the underlying download tool. Thanks to the author [nilaoda](https://github.com/nilaoda). In addition, consistent with all my other projects, I have no intention of infringing any individual or entity's rights. If such a situation happens, please contact me for timely next steps.  
